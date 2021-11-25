@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!--- <a href="https://app.daily.dev/kumatata"><img src="https://api.daily.dev/devcards/596c3820724d4231b1549f7e962943df.png?r=13g" width="400" alt="Coumba Camara's Dev Card"/></a> -->
 
-![Kumatata's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumatata&show_icons=true&theme=material-palenight)
+![Anurag Hazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumatata&show_icons=true&theme=material-palenight)
