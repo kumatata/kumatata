@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/kumatata"><img src="https://api.daily.dev/devcards/596c3820724d4231b1549f7e962943df.png?r=0v2" width="400" alt="Coumba Camara's Dev Card"/></a>
+<a href="https://app.daily.dev/kumatata"><img src="https://api.daily.dev/devcards/596c3820724d4231b1549f7e962943df.png?r=ps7" width="400" alt="Coumba Camara's Dev Card"/></a>
 
 ![Anurag Hazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumatata&show_icons=true&theme=material-palenight)
